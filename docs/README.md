@@ -1,0 +1,20 @@
+# Documentation Index
+
+- Overview: ../README.md
+- Architecture: ./architecture.md
+- Devices:
+  - Shelly Pro 3 (relay): ./devices/shelly-pro-3.md
+  - Shelly Pro 3EM 120A (meter): ./devices/shelly-pro-3em-120a.md
+- Data Pipeline: ./data-pipeline.md
+- InfluxDB: ./influxdb.md
+- Grafana: ./grafana.md
+- Website / UI: ./website.md
+- Backend API: ./api.md
+- Configuration: ./configuration.md
+- Security: ./security.md
+- Deployment: ./deployment.md
+- Controls Runbook: ./controls.md
+- Operations Runbook: ./runbook.md
+- Roadmap: ./roadmap.md
+- Contributing: ./contributing.md
+- Glossary: ./glossary.md
