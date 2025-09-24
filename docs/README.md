@@ -6,6 +6,7 @@
   - Shelly Pro 3 (relay): ./devices/shelly-pro-3.md
   - Shelly Pro 3EM 120A (meter): ./devices/shelly-pro-3em-120a.md
 - Data Pipeline: ./data-pipeline.md
+- MQTT Broker: ./mqtt.md
 - InfluxDB: ./influxdb.md
 - Grafana: ./grafana.md
 - Website / UI: ./website.md
